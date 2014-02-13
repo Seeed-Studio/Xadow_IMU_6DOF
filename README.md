@@ -31,6 +31,6 @@ global distributors and partners to push open hardware movement.<br>
 
 
 
-
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Xadow_IMU_6DOF)](https://github.com/igrigorik/ga-beacon)
 
 
